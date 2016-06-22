@@ -23,4 +23,5 @@ Build:
   
 # Common errors
 Q: The modules cannot install after finish to build the kernel
+
 A: make sure the kernel version downloaded is same as host kernel version
