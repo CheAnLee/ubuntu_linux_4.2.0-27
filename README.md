@@ -19,6 +19,6 @@ refer to [Ubuntu website](https://launchpad.net/ubuntu/+source/linux/4.2.0-27.32
   cp /root/config-$(uname -r) .config
   make
 ```
-### Common errors
+## Common errors
 Q: The modules cannot install after finish to build the kernel</br>
 A: make sure the kernel version downloaded is same as host kernel version
